@@ -1,0 +1,1 @@
+# example-paged.js-as-report
